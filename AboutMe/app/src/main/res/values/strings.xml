@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+    <string name="name">Anderson Koester</string>
+    <string name="yellow_star">Yellow Star</string>
+    <string name="bio_text">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas metus lacus, convallis eget feugiat ut, lobortis nec nisi. Etiam vel sollicitudin libero. Aliquam rhoncus mattis leo, a maximus enim gravida sit amet. Morbi vel mi nulla. Sed sit amet justo sed risus malesuada pellentesque ut a tellus. Donec quis semper est. Aenean ut velit vel massa dapibus consectetur at a sem. Integer suscipit blandit tellus aliquet tempor. Sed quis libero sed lectus lobortis tristique eu sed nisl. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Duis ullamcorper mauris in vestibulum lobortis. Vivamus gravida sagittis molestie. Pellentesque a sollicitudin nibh, ac maximus sapien. Fusce vehicula mauris vel arcu pretium feugiat.
+
+        Vestibulum ornare, lacus vel rhoncus lacinia, leo ipsum placerat arcu, sit amet finibus magna urna ut ligula. Aenean sed ante a ipsum dictum mollis non eu quam. Integer et vehicula turpis, vel efficitur est. Quisque aliquam urna nec lorem lobortis, non volutpat augue condimentum. Nulla placerat ligula justo, eget vestibulum metus interdum quis. Phasellus accumsan et odio quis tincidunt. Phasellus semper, lorem eu cursus lacinia, massa sapien commodo nulla, ut vehicula lorem odio ac orci. Nullam pharetra in tortor a feugiat. Nunc imperdiet vulputate turpis. Quisque tincidunt nec dolor vel sodales.
+
+        Curabitur ac dui ut lorem condimentum cursus. Maecenas a nisi tincidunt, congue est in, viverra diam. Sed et luctus diam. Phasellus placerat sed sapien sed mattis. Maecenas dapibus sapien id purus congue, vitae tristique lorem mollis. Fusce tincidunt lectus nec ligula molestie, vel luctus magna condimentum. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Nullam placerat ante fringilla nibh aliquam bibendum. Phasellus commodo massa diam, nec tempus ligula pulvinar vitae.
+
+        Aliquam sed placerat ligula. Aenean sed tempus felis. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Aenean magna tellus, mollis nec volutpat in, consequat ut elit. Suspendisse potenti. Aenean vehicula mi aliquet euismod ornare. Donec viverra augue ut metus fermentum pharetra. Etiam a ante a nunc consectetur bibendum. Phasellus iaculis sed metus id egestas. Integer ac suscipit nisl.
+
+        Praesent vulputate dolor a tellus aliquet cursus. Ut magna erat, facilisis in felis in, ullamcorper mattis tellus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Phasellus velit est, ornare pretium egestas non, dapibus eu arcu. Sed non enim at quam sodales efficitur. Pellentesque at dictum tortor. Curabitur non molestie magna, quis mattis mauris. Suspendisse in nulla arcu. Nulla dignissim ac enim id blandit. Maecenas gravida pharetra arcu non egestas. In sit amet lectus est.
+    </string>
+    <string name="what_is_your_nickname">What is your nickname</string>
+    <string name="done">Done</string>
+</resources>
